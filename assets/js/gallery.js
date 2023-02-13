@@ -1,6 +1,6 @@
 
 
-/*delay på data hentning i ms */
+/*delay på data hentning i ms for at simulere data hentning online*/
 const myLoadTime = 2000;
 
 // reset variables
