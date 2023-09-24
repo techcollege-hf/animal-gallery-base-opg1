@@ -15,7 +15,7 @@ window.addEventListener("load", initApp);
 
 
 function initApp() {
-    fetchData(); // starter hentning af data. 
+    fetchData(); // starter hentning af data. fra en dummy funktion der simulerer data hentning.
     myApp = document.getElementById('app'); // vi finder det tag voress app skal leve i. kaldet app
     createLoadingScreen(); // bygger loading screen i DOM.
 }
